@@ -1,6 +1,5 @@
 import win32com.client
 import tweepy
-import keys
 import os
 import time
 from enum import Enum
